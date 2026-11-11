@@ -23,12 +23,5 @@ No Bootstrap, Tailwind, React, or other frameworks are used.
 ## Run locally
 Open `index.html` directly in a browser, or open the project folder in Visual Studio Code.
 
-## Netlify deployment
-1. Sign in to Netlify.
-2. Choose Add new project / Deploy manually.
-3. Upload the `compassion-cloud` project folder or its ZIP contents.
-4. Ensure `index.html` is at the project root.
-5. No build command is required.
-
 ## Notes
 This is a front-end demonstration. Forms use client-side validation and browser LocalStorage where appropriate. They do not send real requests to a production backend.
